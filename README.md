@@ -1,4 +1,4 @@
-# ThermalBooth (Proof of Concept)
+# ThermalBooth Prototype
 
 A Raspberry Pi photo booth that captures photos and prints them instantly on a thermal printer.
 
